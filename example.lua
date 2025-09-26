@@ -9,7 +9,7 @@
 local DSInteract = exports["DS_Interact"]:GetExportInteract()
 
 
----------- 📌 Simple Interact ----------
+---------- Simple Interact ----------
 
 local vecPos <const> = vec3(-333.03, -902.20, 31.06)
 local oInteract = DSInteract:Create("simple_interact")
@@ -22,7 +22,7 @@ oInteract:SetCallback(function()
     print("Hello from DS Store !")
 end)
 
----------- 🔦 Holding Interact ----------
+---------- Holding Interact ----------
 
 local oHoldInteract= DSInteract:Create("hold_interact")
 oHoldInteract:SetText("Hold F to open")
@@ -36,7 +36,7 @@ oHoldInteract:SetCallback(function()
     print("Hello from DS Store !")
 end)
 
----------- 🎨 Advanced Interact ----------
+---------- Advanced Interact ----------
 
 local oAdvancedInteract <const> = DSInteract:Create("advanced_interact")
 oAdvancedInteract:SetText("Appuie sur E pour Entrer")
