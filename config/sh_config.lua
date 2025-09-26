@@ -6,7 +6,7 @@
 ---@version 1.0.0
 ---------------------------------------
 
-DSInteract = DSInteract or {}
+DSInteract = {}
 
 Config = {}
 
