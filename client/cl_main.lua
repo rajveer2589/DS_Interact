@@ -51,20 +51,18 @@ function DSInteract:DrawInteract(sName)
 end
 
 CreateThread(function()
-    local ePlayerPed
     local iTime = 750
     local iDist = 0
     local tHoldingData = {}
 
     while true do
         iTime = 750
-        ePlayerPed = PlayerPedId()
 
         for sName, tData in pairs(DSInteract.tDui) do
             local tInfoData <const> = tData.tInfoData
             if not tInfoData or not tInfoData.bShow then goto continue end
 
-            iDist = #(GetEntityCoords(ePlayerPed) - tInfoData.tCoords)
+            iDist = #(GetEntityCoords(PlayerPedId()) - tInfoData.tCoords)
 
             if iDist <= tInfoData.iRangeView then
                 iTime = 0
