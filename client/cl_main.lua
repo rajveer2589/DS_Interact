@@ -60,7 +60,7 @@ CreateThread(function()
 
         for sName, tData in pairs(DSInteract.tDui) do
             local tInfoData <const> = tData.tInfoData
-            if not tInfoData or not tInfoData.bShow then goto continue end
+            if not tInfoData?.bShow then goto continue end
 
             iDist = #(GetEntityCoords(PlayerPedId()) - tInfoData.tCoords)
 
