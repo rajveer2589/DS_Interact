@@ -28,6 +28,11 @@ Join our Discord for support, bug reports, and suggestions:
 
 ---
 
+## Video showcase
+[Video Showcase](https://youtu.be/_8NYZRRiJ3M)  
+
+---
+
 ## License
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for details.
